@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/traject-ecommerce",
   "title": "Traject Ecommerce",
   "description": "Traject Data ecommerce MCP — Amazon (Rainforest API) + Walmart (BlueCart API)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/traject-ecommerce",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-traject-ecommerce",
